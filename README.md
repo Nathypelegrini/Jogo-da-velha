@@ -1,0 +1,1 @@
+Fala galera esse é um jogo da velha personalizado, Cada jogador terá 3s para fazer seu jogo. Mas se quiserem vcs podem modificar isso, mas teram que agir como programadores e encontrar como mudar o codigo 😉
